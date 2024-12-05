@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/lab10/static/js/main.722dcde3.js",
+    "static/media/toronto.jpg": "/lab10/static/media/toronto.e5a534dc87385394d613.jpg",
+    "index.html": "/lab10/index.html",
+    "main.722dcde3.js.map": "/lab10/static/js/main.722dcde3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.722dcde3.js"
+  ]
+}
